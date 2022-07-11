@@ -3,7 +3,7 @@
 - 🔭 Atualmente focada em ser uma desenvolvedora Front-End
 - 🌱 Aprendendo Javascript e Typescript
 - 📫 Como me contatar: luiza_dealmeida@hotmail.com
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
 - ⚡ Meus hobbies favoritos são: jogar videogame e assistir a filmes e séries de televisão.
 
 Um pouco sobre mim: sou recém formada em Direito, mas nunca consegui me identificar muito na área. Como sempre fui ligada em Tecnologia, uma amiga me apresentou a programação e foi paixão a primeira vista; descobri um infinito de possibilidades e o que eu realmente queria fazer. Há alguns meses estou em processo de estudo por meio de cursos e bootcamps, atualmente cursando o Full Stack da Santander, no qual pude escolher e me identificar com a área de Front-End. Sou uma pessoa muito tranquila, adoro adquirir conhecimentos e compartilhá-los. Apesar de ser um pouco tímida, tenho enorme facilidade em trabalhar em grupo e procuro também evoluir minhas soft skills todos os dias.
