@@ -1,7 +1,7 @@
 ## Olá, me chamo Luiza de Almeida! :)
 
 - 🔭 Atualmente focada em ser uma desenvolvedora Front-End
-- 🌱 Aprendendo Javascript e Typescript
+- 🌱 Aprendendo Javascript e React
 - 📫 Como me contatar: luiza_dealmeida@hotmail.com
 - 😄 Pronomes: ela/dela
 - ⚡ Meus hobbies favoritos são: ler livros, jogar videogame e assistir a filmes e séries de televisão.
