@@ -6,7 +6,7 @@
 - 😄 Pronomes: ela/dela
 - ⚡ Meus hobbies favoritos são: ler livros, jogar videogame e assistir a filmes e séries de televisão.
 
-Um pouco sobre mim: sou recém formada em Direito, mas nunca consegui me identificar muito na área. Como sempre fui ligada em Tecnologia, uma amiga me apresentou a programação e foi paixão a primeira vista; descobri um infinito de possibilidades e o que eu realmente queria fazer. Há alguns meses estou em processo de estudo por meio de cursos e bootcamps, atualmente aluna na plataforma da Alura e da Rocketseat. Sou uma pessoa muito tranquila, adoro adquirir conhecimentos e compartilhá-los. Apesar de ser um pouco tímida, tenho enorme facilidade em trabalhar em grupo e procuro também evoluir minhas soft skills todos os dias.
+Um pouco sobre mim: Sou recém formada em Direito e nunca consegui me identificar muito na área. Uma amiga me apresentou a programação e foi aí que eu descobri o que eu queria fazer de verdade: eu amo e sou fascinada pela Tecnologia. Naturalmente curiosa, tenho enorme facilidade em trabalhar em equipe devido aos anos de prática durante minha graduação. Eu sempre gostei muito de procurar soluções para problemas e agora posso fazer isso através das linhas de códigos e, quando comecei nesse universo, minha identificação com a área de Front-End foi instantânea. Nos dias de hoje, estou focada em cursos e bootcamps para aperfeiçoar meus conhecimentos, bem como evoluir minhas habilidades comportamentais. Aqui você pode acompanhar alguns dos meus projetos que venho fazendo; seja bem vindo!
 
 <div align="center">
   <a href="https://github.com/luizaadev">
