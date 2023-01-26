@@ -1,10 +1,9 @@
 ## Olá, me chamo Luiza de Almeida! :)
 
-- 🔭 Atualmente focada em ser uma desenvolvedora Front-End
-- 🌱 Aprendendo Javascript e React
+- 👩‍💻 Em processo de transição de carreira, tenho 25 anos, sou formada em Direito e agora buscando me especializar no Desenvolvimento Web desde 2022.
+- 🚀 Atualmente, estudando tecnologias como Javascript, VueJS, React e NodeJS. Pretendo em breve começar a estudar banco de dados com MySQL, utilizando plataformas como: Alura, Rocketseat, Digital Innovation One.
 - 📫 Como me contatar: luiza_dealmeida@hotmail.com
-- 😄 Pronomes: ela/dela
-- ⚡ Meus hobbies favoritos são: ler livros, jogar videogame e assistir a filmes e séries de televisão.
+- ⚡ Possuo conhecimento intermediário em inglês, com facilidade no entendimento da língua. Buscando também aprimorar minhas habilidades comportamentais diariamente, pois considero essencial durante a busca pela minha primeira oportunidade na área.
 
 <div align="center">
   <a href="https://github.com/luizaadev">
