@@ -1,9 +1,9 @@
 ## Olá, me chamo Luiza de Almeida! :)
 
-- 👩‍💻 Em processo de transição de carreira, tenho 25 anos, sou formada em Direito e agora buscando me especializar no Desenvolvimento Web desde 2022.
-- 🚀 Atualmente, estudando tecnologias como Javascript, VueJS, React, Typescript, NodeJS e testes unitários. Pretendo em breve começar a estudar banco de dados com SQL, utilizando plataformas como: Alura, Rocketseat, Digital Innovation One e Udemy.
+- 👩‍💻 Tenho 25 anos e buscando me especializar no Desenvolvimento Web desde 2022 para conseguir minha primeira vaga como Desenvolvedora Front-End.
+- 🚀 Possuo conhecimento em: HTML, CSS, Javascript, ReactJS e testes unitários. Durante alguns bootcamps, tive experiência criando projetos que também exploram o backend e banco de dados. Com ajuda, posso colaborar com Typescript e o Nodejs.
 - 📫 Como me contatar: luiza_dealmeida@hotmail.com
-- ⚡ Possuo conhecimento intermediário em inglês, com facilidade no entendimento da língua. Buscando também aprimorar minhas habilidades comportamentais diariamente, pois considero essencial durante a busca pela minha primeira oportunidade na área.
+- ⚡ Possuo conhecimento intermediário em inglês, com facilidade no entendimento da língua. Buscando também aprimorar minhas habilidades comportamentais diariamente, pois considero essencial durante a busca pela minha oportunidade na área.
 
 <div align="center">
   <a href="https://github.com/luizaadev">
